@@ -2,6 +2,8 @@
 
 Terminal based tool to look up TikTok user profiles - displays user info and raw JSON in a clean terminal interface.
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+
 ## Features
 
 - Clean terminal UI with colored output
